@@ -18,7 +18,7 @@ yarn install
 yarn start
 ```
 
-The application will run on `http://localhost:4200`
+The application will run on `http://localhost:5173`
 
 ## Components
 
